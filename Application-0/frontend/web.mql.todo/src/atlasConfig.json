@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-ipdkz",
+    "appUrl": "https://realm.mongodb.com/groups/6590591c72c2ba01b6cb58f8/apps/6591b12f4d200db760a6ced3",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://sa-east-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://sa-east-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/6590591c72c2ba01b6cb58f8/explorer/metad/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
